@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/Jai-17/tc-finalproject#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
     "express": "^4.18.2",
+    "mongoose": "^6.7.4"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.20"
   }
 }
